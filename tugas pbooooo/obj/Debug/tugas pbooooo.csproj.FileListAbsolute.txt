@@ -1,0 +1,8 @@
+C:\Users\HP\Documents\kuliah\smt 2\tugas pbooooo\tugas pbooooo\bin\Debug\tugas pbooooo.exe.config
+C:\Users\HP\Documents\kuliah\smt 2\tugas pbooooo\tugas pbooooo\bin\Debug\tugas pbooooo.exe
+C:\Users\HP\Documents\kuliah\smt 2\tugas pbooooo\tugas pbooooo\bin\Debug\tugas pbooooo.pdb
+C:\Users\HP\Documents\kuliah\smt 2\tugas pbooooo\tugas pbooooo\obj\Debug\tugas pbooooo.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\kuliah\smt 2\tugas pbooooo\tugas pbooooo\obj\Debug\tugas pbooooo.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\kuliah\smt 2\tugas pbooooo\tugas pbooooo\obj\Debug\tugas pbooooo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\kuliah\smt 2\tugas pbooooo\tugas pbooooo\obj\Debug\tugas pbooooo.exe
+C:\Users\HP\Documents\kuliah\smt 2\tugas pbooooo\tugas pbooooo\obj\Debug\tugas pbooooo.pdb
